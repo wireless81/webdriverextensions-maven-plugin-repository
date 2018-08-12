@@ -4,6 +4,48 @@
             "name": "chromedriver",
             "platform": "linux",
             "bit": "64",
+            "version": "2.41.0",
+            "url": "http://chromedriver.storage.googleapis.com/2.41/chromedriver_linux64.zip"
+        },
+        {
+            "name": "chromedriver",
+            "platform": "mac",
+            "bit": "64",
+            "version": "2.41.0",
+            "url": "http://chromedriver.storage.googleapis.com/2.41/chromedriver_mac64.zip"
+        },
+        {
+            "name": "chromedriver",
+            "platform": "windows",
+            "bit": "32",
+            "version": "2.41.0",
+            "url": "http://chromedriver.storage.googleapis.com/2.41/chromedriver_win32.zip"
+        },
+        {
+            "name": "chromedriver",
+            "platform": "linux",
+            "bit": "64",
+            "version": "2.40.0",
+            "url": "http://chromedriver.storage.googleapis.com/2.40/chromedriver_linux64.zip"
+        },
+        {
+            "name": "chromedriver",
+            "platform": "mac",
+            "bit": "64",
+            "version": "2.40.0",
+            "url": "http://chromedriver.storage.googleapis.com/2.40/chromedriver_mac64.zip"
+        },
+        {
+            "name": "chromedriver",
+            "platform": "windows",
+            "bit": "32",
+            "version": "2.40.0",
+            "url": "http://chromedriver.storage.googleapis.com/2.40/chromedriver_win32.zip"
+        },
+        {
+            "name": "chromedriver",
+            "platform": "linux",
+            "bit": "64",
             "version": "2.39.0",
             "url": "http://chromedriver.storage.googleapis.com/2.39/chromedriver_linux64.zip"
         },
@@ -823,6 +865,48 @@
             "name": "internetexplorerdriver",
             "platform": "windows",
             "bit": "32",
+            "version": "3.14.0",
+            "url": "http://selenium-release.storage.googleapis.com/3.14/IEDriverServer_Win32_3.14.0.zip"
+        },
+        {
+            "name": "internetexplorerdriver",
+            "platform": "windows",
+            "bit": "64",
+            "version": "3.14.0",
+            "url": "http://selenium-release.storage.googleapis.com/3.14/IEDriverServer_x64_3.14.0.zip"
+        },
+        {
+            "name": "internetexplorerdriver",
+            "platform": "windows",
+            "bit": "32",
+            "version": "3.13.0",
+            "url": "http://selenium-release.storage.googleapis.com/3.13/IEDriverServer_Win32_3.13.0.zip"
+        },
+        {
+            "name": "internetexplorerdriver",
+            "platform": "windows",
+            "bit": "64",
+            "version": "3.13.0",
+            "url": "http://selenium-release.storage.googleapis.com/3.13/IEDriverServer_x64_3.13.0.zip"
+        },
+        {
+            "name": "internetexplorerdriver",
+            "platform": "windows",
+            "bit": "32",
+            "version": "3.12.0",
+            "url": "http://selenium-release.storage.googleapis.com/3.12/IEDriverServer_Win32_3.12.0.zip"
+        },
+        {
+            "name": "internetexplorerdriver",
+            "platform": "windows",
+            "bit": "64",
+            "version": "3.12.0",
+            "url": "http://selenium-release.storage.googleapis.com/3.12/IEDriverServer_x64_3.12.0.zip"
+        },
+        {
+            "name": "internetexplorerdriver",
+            "platform": "windows",
+            "bit": "32",
             "version": "3.11.1",
             "url": "http://selenium-release.storage.googleapis.com/3.11/IEDriverServer_Win32_3.11.1.zip"
         },
@@ -1322,6 +1406,41 @@
             "version": "1.9.7",
             "url": "https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.7-windows.zip",
             "fileMatchInside": ".*/phantomjs.exe$"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "windows",
+            "bit": "64",
+            "version": "0.21.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-win64.zip"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "windows",
+            "bit": "32",
+            "version": "0.21.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-win32.zip"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "linux",
+            "bit": "64",
+            "version": "0.21.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-linux64.tar.gz"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "linux",
+            "bit": "32",
+            "version": "0.21.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-linux32.tar.gz"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "mac",
+            "bit": "64",
+            "version": "0.21.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-macos.tar.gz"
         },
         {
             "name": "geckodriver",
@@ -1847,6 +1966,13 @@
             "bit": "64",
             "version": "0.8.0",
             "url": "https://github.com/mozilla/geckodriver/releases/download/v0.8.0/geckodriver-0.8.0-OSX.gz"
+        },
+        {
+            "name": "edgedriver",
+            "platform": "windows",
+            "bit": "64",
+            "version": "6.17134",
+            "url": "https://download.microsoft.com/download/F/8/A/F8AF50AB-3C3A-4BC4-8773-DC27B32988DD/MicrosoftWebDriver.exe"
         },
         {
             "name": "edgedriver",
